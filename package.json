@@ -1,6 +1,6 @@
 {
   "name": "sovendus-integration-react",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "private": false,
   "description": "Official Sovendus Integration React Component",
   "types": "./dist/package/index.d.ts",
