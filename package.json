@@ -48,8 +48,8 @@
   },
   "homepage": "https://developer-hub.sovendus.com/Voucher-Network-Checkout-Benefits/Web-Integration/React-Component",
   "dependencies": {
-    "sovendus-integration-scripts": "3.11.18",
-    "sovendus-integration-types": "3.8.16"
+    "sovendus-integration-scripts": "3.12.0",
+    "sovendus-integration-types": "3.9.4"
   },
   "devDependencies": {
     "@types/eslint": "9.6.1",

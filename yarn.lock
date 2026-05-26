@@ -4332,12 +4332,12 @@ sovendus-builder@^1.5.2:
     tailwindcss "4.1.10"
     vite-plugin-css-injected-by-js "3.5.2"
 
-sovendus-integration-scripts@3.11.18:
-  version "3.11.18"
-  resolved "https://registry.yarnpkg.com/sovendus-integration-scripts/-/sovendus-integration-scripts-3.11.18.tgz#6953eea3ddd9afe058cae41e954b3193b96d74be"
-  integrity sha512-kqpvq4oF6xochQFMvXLHK63uK9AOM242DLHBWi+LHlRHdTRBhuvKx8tItgjYog3KRSGsZu6FJX5gsU+paj9T5A==
+sovendus-integration-scripts@3.12.0:
+  version "3.12.0"
+  resolved "https://registry.yarnpkg.com/sovendus-integration-scripts/-/sovendus-integration-scripts-3.12.0.tgz#8984a58decd0eded9f8536495d03b30a3b883f25"
+  integrity sha512-7z9SdM9NLyaz6GFeVpxYIbHrNSXha/8hdm8tDwxUEyy7sbMss4qrqwY3LrmxDxJjkBXMNcrbcXDhSuX/SqXrGw==
   dependencies:
-    sovendus-integration-types "3.8.16"
+    sovendus-integration-types "3.9.4"
   optionalDependencies:
     react ">=16.8"
     react-dom ">=16.8"
@@ -4353,6 +4353,13 @@ sovendus-integration-types@3.8.16:
   version "3.8.16"
   resolved "https://registry.yarnpkg.com/sovendus-integration-types/-/sovendus-integration-types-3.8.16.tgz#c5a822ca2abf20cf1181ec263d9586ffbecc0cd4"
   integrity sha512-QAbDVmOy2ro13VaVLZfWxfqGoBuBA1buf89G6p5NGFrJI/ipof1tX3RwTiyAmPMot6T5oXeKBHDRa+A41KB3QA==
+  optionalDependencies:
+    zod "^4.0.15"
+
+sovendus-integration-types@3.9.4, sovendus-integration-types@^3.9.4:
+  version "3.9.4"
+  resolved "https://registry.yarnpkg.com/sovendus-integration-types/-/sovendus-integration-types-3.9.4.tgz#68d837c5dc6add00d6ee910063a908413f79d4b4"
+  integrity sha512-pWfXZXdj2d+wFRF7t3ZXHC4WUIgRmAF28mitpZkBH5d07yMOT5ZHqquAu+WblTektAOx9N6xs8jO7+wzKCVRfg==
   optionalDependencies:
     zod "^4.0.15"
 
